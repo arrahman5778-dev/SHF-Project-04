@@ -292,7 +292,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-.book_text h2 {
+.book_text p{
     color: #000;
     font-size: 20px;
     font-weight: 400;
@@ -480,16 +480,17 @@ body {
          Science Fictoin Part Start
 ======================================== */
 .science_bg{
+    padding: 20px 15px;
     background: #ffffff;
 }
-/* .science_bg h2 {
+.science_bg h2 {
     color: #000;
     font-size: 25px;
     font-weight: 400;
     font-family: 'Lato', sans-serif;
     line-height: 1.5;
     padding-bottom: 10px;
-}  */
+} 
 
 /* ========================================
          Science Fictoin Part End
